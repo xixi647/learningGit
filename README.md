@@ -1,3 +1,6 @@
 # learningGit
 learningGit
-- this is test file
+- we can test the commit
+- feature
+- this is unstaging change 
+
